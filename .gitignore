@@ -1,7 +1,2 @@
-/.idea
-/.vscode
-*.log
-.env
-.DS_Store
-/.svn
-.git
+*
+!.gitignore
