@@ -1,0 +1,15 @@
+{
+    "name": "sun-alpha/alpha",
+    "authors": [
+        {
+            "name": "SunZhuoHang",
+            "email": "435219154@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"sun-alpha\\alpha\\": "src/"
+		}
+	}
+}
