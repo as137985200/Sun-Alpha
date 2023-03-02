@@ -11,5 +11,6 @@
 		"psr-4": {
 			"sun-alpha\\alpha\\": "src/"
 		}
-	}
+	},
+    "license": "MIT"
 }
